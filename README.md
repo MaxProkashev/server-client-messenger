@@ -1,2 +1,3 @@
-# server-client-messenger
- GoLang messenger
+# Основная информация
+Язык написания: GoLang
+База данных: Postgres (с помощью облачной PaaS-платформы Heroku)
