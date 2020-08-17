@@ -1,0 +1,11 @@
+http://localhost:9000/users/add?username=qwe
+
+http://localhost:9000/users/show
+
+http://localhost:9000/chats/add?name=qwe;users=
+
+http://localhost:9000/messages/add?chat=;author=;text=hello
+
+http://localhost:9000/chats/get?user=
+
+http://localhost:9000/messages/get?chat=
